@@ -38,6 +38,7 @@ Durante lo sviluppo del progetto ho lavorato su:
 ## Dashboard Power BI
 
 ### 1. ICT Talent Market Overview
+<img width="572" height="323" alt="pagina_1" src="https://github.com/user-attachments/assets/8210da99-a15d-4374-9a24-139f22de0e9c" />
 
 La prima pagina offre una panoramica esplorativa dei tre profili ICT attraverso:
 
@@ -49,6 +50,8 @@ La prima pagina offre una panoramica esplorativa dei tre profili ICT attraverso:
 Un filtro consente di approfondire i singoli profili professionali.
 
 ### 2. Job Offer Simulator
+<img width="572" height="322" alt="pagina_2" src="https://github.com/user-attachments/assets/e8d2c9a7-c449-4e96-a33e-b4e1b4c071f3" />
+
 
 La seconda pagina permette di simulare una proposta di RAL e confrontarla con il benchmark Hays relativo al profilo e alla città selezionati.
 
