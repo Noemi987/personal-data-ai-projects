@@ -1,0 +1,25 @@
+﻿ID_annuncio,Modalita_cluster,Benefit_pasti,Benefit_welfare_salute,Benefit_dotazioni_convenzioni,Benefit_generici,Crescita_formazione,Crescita_sviluppo,Benefit_temi,Crescita_temi
+A001,Non specificato,0,0,0,0,0,0,Non specificato,Non specificato
+A002,Non specificato,1,1,0,0,0,0,Pasti e mensa; Welfare e salute,Non specificato
+A003,Non specificato,0,0,0,1,1,0,Benefit generici (non dettagliati),Formazione e affiancamento
+A004,Ibrido,1,1,1,0,1,0,Pasti e mensa; Welfare e salute; Dotazioni e convenzioni,Formazione e affiancamento
+A005,Flessibilità condizionata,0,0,0,0,1,0,Non specificato,Formazione e affiancamento
+A006,Ibrido,0,0,1,0,0,0,Dotazioni e convenzioni,Non specificato
+A007,In presenza,1,1,0,0,1,1,Pasti e mensa; Welfare e salute,Formazione e affiancamento; Sviluppo professionale e carriera
+A008,Ibrido,1,1,1,0,0,1,Pasti e mensa; Welfare e salute; Dotazioni e convenzioni,Sviluppo professionale e carriera
+A009,Full remote,0,0,0,0,0,1,Non specificato,Sviluppo professionale e carriera
+A010,Ibrido,0,0,0,0,0,0,Non specificato,Non specificato
+A011,Non specificato,0,0,0,0,0,0,Non specificato,Non specificato
+A012,Non specificato,0,0,0,0,0,1,Non specificato,Sviluppo professionale e carriera
+A013,Non specificato,0,0,0,0,1,0,Non specificato,Formazione e affiancamento
+A014,Ibrido,0,0,0,0,1,1,Non specificato,Formazione e affiancamento; Sviluppo professionale e carriera
+A015,Non specificato,0,0,0,0,0,0,Non specificato,Non specificato
+A016,Ibrido,0,0,0,0,1,1,Non specificato,Formazione e affiancamento; Sviluppo professionale e carriera
+A017,Ibrido,1,0,0,0,1,1,Pasti e mensa,Formazione e affiancamento; Sviluppo professionale e carriera
+A018,Full remote,0,0,0,0,0,0,Non specificato,Non specificato
+A019,Full remote,0,0,0,0,0,0,Non specificato,Non specificato
+A020,Non specificato,0,0,0,0,0,0,Non specificato,Non specificato
+A021,Non specificato,0,0,0,0,1,1,Non specificato,Formazione e affiancamento; Sviluppo professionale e carriera
+A022,Ibrido,1,0,0,0,1,1,Pasti e mensa,Formazione e affiancamento; Sviluppo professionale e carriera
+A023,Non specificato,0,0,0,0,0,0,Non specificato,Non specificato
+A024,Flessibilità condizionata,0,0,0,0,0,1,Non specificato,Sviluppo professionale e carriera

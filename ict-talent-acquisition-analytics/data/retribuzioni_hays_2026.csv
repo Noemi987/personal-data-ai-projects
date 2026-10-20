@@ -1,0 +1,13 @@
+﻿ID_ruolo,Ruolo_fonte,Citta,Esperienza,Anno,RAL_min,RAL_max,ID_fonte
+R01,Data Analyst,Milano,2-5 anni,2026,33000,38000,HAYS_2026
+R01,Data Analyst,Roma,2-5 anni,2026,31000,36000,HAYS_2026
+R01,Data Analyst,Bologna,2-5 anni,2026,33000,38000,HAYS_2026
+R01,Data Analyst,Torino,2-5 anni,2026,30000,35000,HAYS_2026
+R02,Junior Developer,Milano,2-5 anni,2026,33000,38000,HAYS_2026
+R02,Junior Developer,Roma,2-5 anni,2026,36000,41000,HAYS_2026
+R02,Junior Developer,Bologna,2-5 anni,2026,33000,38000,HAYS_2026
+R02,Junior Developer,Torino,2-5 anni,2026,35000,40000,HAYS_2026
+R03,Cloud Engineer,Milano,2-5 anni,2026,44000,50000,HAYS_2026
+R03,Cloud Engineer,Roma,2-5 anni,2026,40000,44000,HAYS_2026
+R03,Cloud Engineer,Bologna,2-5 anni,2026,42000,46000,HAYS_2026
+R03,Cloud Engineer,Torino,2-5 anni,2026,38000,42000,HAYS_2026
