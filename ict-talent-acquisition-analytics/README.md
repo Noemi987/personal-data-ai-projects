@@ -22,6 +22,13 @@ Sono state utilizzate tre tipologie di informazioni:
 - **24 annunci di lavoro pubblicamente consultabili**, raccolti manualmente (8 per ciascun profilo), provenienti da località italiane differenti.
 - **Hays Salary Guide Italia 2026**, per i benchmark di retribuzione annua lorda (RAL) relativi a quattro città italiane e alla fascia di esperienza 2–5 anni.
 - **Unioncamere Excelsior 2025**, per indicatori nazionali sulla difficoltà di reperimento riferiti a categorie professionali più ampie.
+- 
+### Fonti originali
+
+- **Hays Italia – Salary Guide 2026:** [Report ufficiale](https://www.hays.it/salary-guide/overview). Benchmark RAL relativi ai tre profili ICT, fascia di esperienza 2–5 anni, pagine 67 e 70.
+- **Unioncamere – Sistema Informativo Excelsior, Laureati e lavoro – Indagine 2025:** [Rapporto originale (PDF)](https://excelsior.unioncamere.net/sites/default/files/pubblicazioni/2025/Laureati_e_lavoro.pdf). Indicatori nazionali di difficoltà di reperimento, pagina 30.
+
+I dati estratti dalle fonti sono stati organizzati e utilizzati a fini esplorativi. Le rispettive granularità e i limiti di interpretazione sono descritti nel progetto.
 
 ## Attività svolte
 
