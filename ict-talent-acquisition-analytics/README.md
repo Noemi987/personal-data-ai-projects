@@ -25,6 +25,7 @@ Sono state utilizzate tre tipologie di informazioni:
 
 ### Fonti originali
 
+- **Annunci di lavoro ICT (24 offerte pubbliche):** gli URL originali, le aziende e i profili professionali sono documentati nel [Registro delle fonti](data/Registro_fonti_ICT_Talent_Acquisition_Analytics.xlsx). Gli annunci sono stati selezionati manualmente e costituiscono un campione esplorativo, non rappresentativo del mercato del lavoro italiano. I collegamenti originali potrebbero cambiare o non essere più disponibili nel tempo.
 - **Hays Italia – Salary Guide 2026:** [Report ufficiale](https://www.hays.it/salary-guide/overview). Benchmark RAL relativi ai tre profili ICT, fascia di esperienza 2–5 anni, pagine 67 e 70.
 - **Unioncamere – Sistema Informativo Excelsior, Laureati e lavoro – Indagine 2025:** [Rapporto originale (PDF)](https://excelsior.unioncamere.net/sites/default/files/pubblicazioni/2025/Laureati_e_lavoro.pdf). Indicatori nazionali di difficoltà di reperimento, pagina 30.
 
