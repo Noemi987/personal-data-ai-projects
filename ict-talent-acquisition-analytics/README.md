@@ -77,6 +77,7 @@ La pagina mostra inoltre le informazioni qualitative rilevate negli annunci del 
 - Il campione di 24 annunci è limitato e non statisticamente rappresentativo del mercato del lavoro ICT italiano.
 - I benchmark Hays sono riferimenti esterni: l'edizione 2026 utilizza informazioni di mercato raccolte nel 2025 e non costituisce una previsione delle retribuzioni future.
 - Gli indicatori Excelsior riguardano categorie professionali nazionali più ampie e non devono essere interpretati come percentuali specifiche per singola città o ruolo.
+- Il simulatore consente un confronto descrittivo tra una proposta retributiva e i benchmark Hays, senza valutare la competitività complessiva dell'offerta né prevedere l'esito di una selezione.
 - Le informazioni qualitative sono ricavate dagli annunci raccolti. La dicitura **«Non specificato»** indica che un elemento non è stato menzionato nell'annuncio, non necessariamente che sia assente.
 
 ## Possibili sviluppi
