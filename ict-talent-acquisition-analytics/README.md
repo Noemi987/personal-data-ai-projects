@@ -84,7 +84,7 @@ La pagina mostra inoltre le informazioni qualitative rilevate negli annunci del 
 
 Il progetto potrebbe essere ampliato attraverso:
 
-- **Ampliamento del campione di annunci:** raccolta di un numero maggiore di offerte, attraverso criteri di selezione più strutturati, per approfondire l'analisi delle competenze richieste, delle condizioni lavorative e delle retribuzioni dichiarate negli annunci, ove disponibili.
+- **Ampliamento del campione e dei profili professionali**: raccolta di un numero maggiore di annunci ed estensione dell'analisi a ulteriori ruoli ICT, attraverso criteri di selezione più strutturati, per approfondire le competenze richieste, le condizioni lavorative e le retribuzioni dichiarate negli annunci, ove disponibili.
 - **Analisi retributiva per settore economico:** classificazione delle aziende per settore di attività per confrontare le retribuzioni offerte a parità di profilo professionale tenendo conto di variabili come località ed esperienza richiesta.
 - **Monitoraggio delle evoluzioni nel tempo:** aggiornamento periodico dei dati per osservare eventuali cambiamenti nelle competenze richieste, nelle condizioni lavorative e nei livelli retributivi.
 - **Classificazione semiautomatica delle informazioni testuali:** introduzione di tecniche di elaborazione del linguaggio naturale (NLP) per supportare l'estrazione e la classificazione dei requisiti e delle informazioni qualitative mantenendo controlli sulla qualità dei risultati.
